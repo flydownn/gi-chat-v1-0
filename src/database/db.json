@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "username": "123",
+      "password": "3bfa9963db44f6553fbc7eae71d7f2afc8ebc309",
+      "id": 1
+    }
+  ],
+  "messages": [
+    {
+      "username": "123",
+      "message": "sa",
+      "time": "20:12",
+      "id": 1
+    }
+  ]
+}
